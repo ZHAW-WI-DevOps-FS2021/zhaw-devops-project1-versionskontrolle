@@ -2,10 +2,10 @@
 
 ## Hello World
 
-### Please change this sentence Marion.
+### Please add a sentence Marion.
 :octocat: I like Gihub Emojies :point_right: https://gist.github.com/rxaviers/7360908 :point_left: :star:
 
-### Please change this senctence Beni.
+### Please add a sentence Beni.
 > Beni just added this line.
 
 ## Thank you
